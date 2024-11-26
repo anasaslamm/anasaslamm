@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Anas</h1>
+<h1 align="center">Hi 👋 I'm , Anas Aslam</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on Social-Media-App (https://github.com/anasaslamm/social-app)
