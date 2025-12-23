@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Social-Media-App (https://github.com/anasaslamm/social-app)
 
-- 🌱 I’m currently learning **React / Oracle Apex**
+- 🌱 I’m currently learning **Oracle Apex**
 
 - 📫 How to reach me **annasaslamm@gmail.com**
 
