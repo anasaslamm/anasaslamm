@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋 I'm , Anas Aslam</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Oracle Apex Developer</h3>
 
 - 🔭 I’m currently working on Pharmacy POS (https://oracleapex.com/ords/r/pharma_lite/fitwell-hub/login?session=123)
-
-- 🌱 I’m currently learning **Oracle Apex**
 
 - 📫 How to reach me **annasaslamm@gmail.com**
 
